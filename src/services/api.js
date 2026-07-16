@@ -1,6 +1,8 @@
 import axios from "axios";
 
-const API_BASE_URL = "http://localhost:8080/api"; //local url
+// const API_BASE_URL = "http://localhost:8080/api"; //local url
+
+const API_BASE_URL = process.env.REACT_APP_API_URL || "/api";
 
 // const API_BASE_URL = "http://3.141.18.52:8090/api";//prod url
 

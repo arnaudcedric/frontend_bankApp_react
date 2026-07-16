@@ -3,3 +3,7 @@
 <img width="800" height="500" alt="home" src="https://github.com/user-attachments/assets/0cc08ee4-41e0-4312-8da2-57b4ec36df1c" />
 <img width="800" height="500" alt="history" src="https://github.com/user-attachments/assets/162854df-966f-44bc-8478-4557dcdf5ed4" />
 <img width="800" height="500" alt="deposit" src="https://github.com/user-attachments/assets/831e7c66-bb0a-4305-95a9-d857137da8c5" />
+
+add this for local developmentin .env file
+
+REACT_APP_API_URL=http://localhost:8080/api
